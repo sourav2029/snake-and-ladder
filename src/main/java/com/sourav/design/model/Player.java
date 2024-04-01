@@ -1,4 +1,4 @@
-package com.gb.snakeladder.model;
+package com.sourav.design.model;
 
 import lombok.Getter;
 import lombok.Setter;
@@ -6,7 +6,7 @@ import lombok.Setter;
 @Getter
 
 public class Player {
-    private String name;
+    private final String name;
     @Setter
     private int position;
     @Setter

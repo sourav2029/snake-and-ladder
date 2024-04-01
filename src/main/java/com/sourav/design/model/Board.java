@@ -1,12 +1,12 @@
-package com.gb.snakeladder.model;
+package com.sourav.design.model;
 
 import lombok.Getter;
 
 @Getter
 public class Board {
-    private int size;
-    private int start;
-    private int end;
+    private final int size;
+    private final int start;
+    private final int end;
 
     public Board(int size) {
         this.start = 1;

@@ -1,7 +1,7 @@
-package com.gb.snakeladder;
+package com.sourav.design;
 
-import com.gb.snakeladder.model.Game;
-import com.gb.snakeladder.model.Player;
+import com.sourav.design.model.Game;
+import com.sourav.design.model.Player;
 
 import java.util.Scanner;
 

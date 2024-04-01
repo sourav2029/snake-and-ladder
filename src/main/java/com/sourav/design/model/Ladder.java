@@ -1,4 +1,4 @@
-package com.gb.snakeladder.model;
+package com.sourav.design.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
